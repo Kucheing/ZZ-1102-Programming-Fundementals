@@ -1,0 +1,4 @@
+Task 03: Consider the following figure:
+Design a pseudo-code algorithm and then translate it into a Java program that defines and initializes the lengths x and y. It then displays the lengths x and y, and
+finally it calculates and displays the area and the perimeter of the blue figure. Assume that the lengths x and y are in centimeters.
+Hint: Area of triangle is (base * height)/2

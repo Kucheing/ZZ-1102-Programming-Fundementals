@@ -1,0 +1,10 @@
+*Task 13: Create a program to calculate and print the results using the formula given below. Remember to
+initialise (declare and assign) values for variables x and y. Explain what do Math.PI, Math.max and
+Math.abs do.
+Math.PI * Math.max(4 * y, Math.abs(x – y))
+
+Math.PI → A built-in constant in Java that represents π (pi ≈ 3.141592653589793).
+
+Math.max(a, b) → Returns the larger of the two numbers a and b.
+
+Math.abs(value) → Returns the absolute value of value (removes any negative sign).

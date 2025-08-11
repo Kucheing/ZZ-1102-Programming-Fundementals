@@ -1,0 +1,10 @@
+0. Problem:
+Given a certain amount of change (integer BND value), determine the smallest number of bills to return using only 50, 10, 5, and 1 BND bills.
+
+0. Approach:
+
+* Use integer division (/) to find the number of bills for the largest denomination.
+
+* Use modulus (%) to find the remainder, then move to the next smaller denomination.
+
+* Continue until all change is broken into bills.

@@ -1,0 +1,31 @@
+1. Analysis
+0. Problem: We need to calculate the volume and surface area of a sphere given its radius.
+
+Formulas:
+
+![alt text](image-1.png)
+ 
+Inputs:
+
+0. r (radius of sphere in centimeters)
+
+Outputs:
+
+0. Volume in cubic centimeters
+
+0. Surface area in square centimeters
+
+Data types:
+
+0. Use double for radius, volume, and surface area (to store decimal values)
+
+
+Steps:
+
+1. Store the radius in a variable.
+
+2. Calculate volume using the formula.
+
+3. Calculate surface area using the formula.
+
+4. Display results with two decimal places.

@@ -1,0 +1,4 @@
+Task 05: Write a program that accepts the unit weight of a bag of Sugar in Kilograms and the number of bags sold and displays the total price of the sale, computed as
+totalPrice = unitWeight * numberOfUnits * 5.99;
+totalPriceWithTax = totalPrice + totalPrice * 0.0725;
+where 5.99 is the cost per Kg and 0.0725 is the sales tax. Display the result in the following manner:

@@ -1,0 +1,32 @@
+1. Analysis
+Problem: We need to calculate how much a certain amount of money will be worth in:
+
+0. Two future years
+
+0. One past year
+
+Given:
+
+0. Annual depreciation rate: 3% (meaning each year’s value is 97% of the previous year)
+
+Formula:
+
+* OtherAmount = CurrentAmount x 0.97 (OtherYear - CurrentYear)
+ 
+* Positive exponent → future years
+
+* Negative exponent → past years
+
+Inputs:
+
+currentAmount (BND)
+
+currentYear (integer)
+
+year1, year2 (future years)
+
+yearPast (past year)
+
+Outputs:
+
+Equivalent amount in each target year

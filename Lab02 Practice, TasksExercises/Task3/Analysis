@@ -1,0 +1,31 @@
+0. Problem:
+* We need to calculate the area and perimeter of a blue diamond-shaped figure inside a rectangle, given its dimensions x and 𝑦
+
+0. Given:
+
+* x → base length of each triangle (in cm)
+
+* y → height of each triangle (in cm)
+
+* The blue diamond is made up of two identical isosceles triangles.
+
+:Formulas:
+1. Area of the diamond:
+                    Area= 2 x X × y This is because there is two triangles so it'll be multiply by 2
+since it’s two triangles: ![alt text](formula1.png)
+
+2. Perimeter of the diamond:
+
+Each side length: ![alt text](formula2.png)
+
+Perimeter: Perimeter = 4 x side
+
+3. Inputs:
+
+x (cm) — base length
+y (cm) — height
+
+4. Outputs:
+
+Area of the diamond (cm²)
+Perimeter of the diamond (cm)

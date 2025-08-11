@@ -1,0 +1,6 @@
+Task 4: Using the Java API Documentation document find and write down the headers of the
+methods:
+ sqrt, pow, and max of the Math class
+ nextInt , nextDouble, nextLine of the Scanner class
+Note: If a method has more than one header, choose any one.
+An example of a method header is: static double abs(double a)

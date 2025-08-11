@@ -1,0 +1,3 @@
+Task 04: Design a pseudo-code algorithm and then translate it into a Java program that initializes the amount of change, in BND, to be returned to a customer at a
+shop. The program then calculates and displays the minimum number of BND bills for the change and the equivalent number of 50, 10, 5, and 1 BND bills. Assume
+that the bills available at the shop are 1, 5, 10, and 50 BND. Hint: Use remainder and integer division. 

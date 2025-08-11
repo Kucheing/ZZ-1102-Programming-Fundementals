@@ -1,0 +1,16 @@
+Task6: Syntax Errors
+public Errors {
+❌ Missing class keyword. It should be public class Errors.
+
+MAIN should be lowercase main — Java is case-sensitive.
+
+string[] should be String[] — class names in Java are capitalized.
+
+Extra semicolon after method header:
+public static void main(String[] args); → remove the semicolon.
+
+num3 is used but never declared — only num1 and num2 are declared.
+
+Missing semicolon after num2 = 16.
+
+system.outprintln should be System.out.println — System is capitalized.

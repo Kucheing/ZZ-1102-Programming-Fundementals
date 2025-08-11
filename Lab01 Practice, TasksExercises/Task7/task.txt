@@ -1,0 +1,6 @@
+Task 7: Design then implement a Java program that displays the numbers 1 to 4 on the same line,
+with each pair of adjacent numbers separated by one space, i.e., the output of the program must
+be: 1 2 3 4
+Write the program using each of the following techniques:
+a. Use only one System.out.println statement
+b. Use four System.out.print statements 

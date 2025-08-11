@@ -1,0 +1,8 @@
+*Task 15: Write a program that prints the balance of an account after the first, second, and third year. The
+account has an initial balance of $1,000 and earns 5 percent interest per year. (Hint: Calculate first year
+interest. The first year balance will be the sum of initial balance and first year interest. Then continue to
+calculate second year balance using first year balance and so on.)
+
+The balance after the first year is: 1050.0
+The balance after the second year is: 1102.5
+The balance after the third year is: 1157.625
