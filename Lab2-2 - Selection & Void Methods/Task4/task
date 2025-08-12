@@ -1,0 +1,4 @@
+Task 04: Write a Java program that displays the following menu:
+1. Find area and perimeter of a rectangle
+2. Find area and circumference of a circle
+The program then reads the menu choice and behaves as in the following table:

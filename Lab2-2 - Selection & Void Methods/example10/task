@@ -1,0 +1,14 @@
+Note: For each of task write a pseudo-code algorithm and then translate it into a complete Java program. A sample problem and its pseudo-code algorithm is:
+Write a Java program that prompts for and reads a number greater than zero. If the number x entered is greater than zero, the program computes and displays x,
+log10(x), ln(x), and ex; otherwise it displays an appropriate error message.
+1. Prompt for a number x [ x > 0]
+2. Input: x
+3. if( x > 0) {
+3.1 Output: x
+3.2 Output: log10(x)
+3.3 Output: ln(x)
+3.4 Output: ex
+}else
+3.5 Output: “Error: x ≤ 0”
+4. Stop.
+The translation of the pseudo-code algorithm is:

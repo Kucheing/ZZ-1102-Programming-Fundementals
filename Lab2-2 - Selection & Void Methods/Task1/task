@@ -1,0 +1,7 @@
+Task 01: Write a Java program that prompts and reads two integer numbers. It then checks the numbers and prints one of the following messages accordingly:
+
+0. You have entered two even numbers.
+0. You have entered two odd numbers.
+0. You have entered one even number and one odd number
+
+Hint: Use the modulus operator (%) for checking the numbers. 

@@ -1,0 +1,5 @@
+Task 02: Write a Java program that reads a character from the user. It then displays one of the following messages accordingly:
+The character x is lowercase
+The character x is uppercase
+The character x is a character digit
+where x is the character read from the console/keyboard
