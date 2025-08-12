@@ -1,0 +1,5 @@
+Task05: Write a Java program that prompts for and reads two strings str1 and str2. The program then displays one of the following messages accordingly:
+str1 and str2 are equal
+str1 is greater than str2
+str1 is less than str2
+where str1 and str2 are the strings read. Your comparison must be case-sensitive.
