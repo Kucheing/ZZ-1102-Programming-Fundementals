@@ -1,0 +1,8 @@
+Task10: Celsius Temperature Table
+The formula for converting a temperature from Fahrenheit to Celsius is
+𝐶 =
+5
+9
+(F-32)
+where F is the Fahrenheit temperature and C is the Celsius temperature. Write a method named celsius that accepts a Fahrenheit temperature as an argument. The method
+should print the temperature, converted to Celsius. 
