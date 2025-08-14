@@ -1,0 +1,2 @@
+Task09: Write a method named quartersToDollars. The method should accept an int argument that is a number of quarters, and return the equivalent number of dollars as a
+double. For example, if you pass 4 as an argument, the method should return 1.0; and if you pass 7 as an argument, the method should return 1.75.
