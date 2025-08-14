@@ -1,0 +1,3 @@
+Task11: Distance Traveled Modification
+The distance a vehicle travels can be calculated as follows: Distance = Speed * Time
+Write a method named distance that accepts a vehicle’s speed and time as arguments, and prints the distance the vehicle has traveled
