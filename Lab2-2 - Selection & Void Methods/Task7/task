@@ -1,0 +1,1 @@
+Task07: Write a method named timesTen. The method should accept a double argument, and prints a double value that is ten times the value of the argument.
