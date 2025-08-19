@@ -1,0 +1,4 @@
+Task03: Using a do-while loop, write a Java program to check that the user has typed a letter. The program must not
+stop until the user types a lowercase or uppercase letter. Sample runs:
+
+![alt text](image.png)
