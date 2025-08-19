@@ -1,0 +1,4 @@
+Task01: Using a while sentinel controlled loop, write a program that reads a radius from the user and displays the
+area and circumference of the circle with that radius. This task is repeated until the user types a negative value.
+Assume that the radius is in centimeters. [𝐴𝑟𝑒𝑎=𝜋𝑟2, 𝐶=2 𝜋 ] Sample run: 
+![alt text](image-1.png)
