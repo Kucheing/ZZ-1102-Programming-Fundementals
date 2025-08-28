@@ -8,7 +8,6 @@ public class getWLRectangle {
         double width = getWidth();
         double area = getArea(length, width);
         displayData(length, width, area);
-
     }
 
     private static double getLength() {
