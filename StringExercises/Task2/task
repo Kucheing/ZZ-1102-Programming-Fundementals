@@ -1,0 +1,1 @@
+2. Write a method that counts the number of a char in a given String, E.g. Count the number of char ‘a’ in String “marvelous”, the answer is 1. The character and String should be given from user input.
