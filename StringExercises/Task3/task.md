@@ -1,0 +1,3 @@
+3. Dupledrome is a word that contains only double letters, like \llaammaa" or \ssaabb". I conjecture that there are no dupledromes in common English use. To test that conjecture, I would like a program that reads words from the dictionary one at a time and checks them for dupledromity. 
+
+- Write a method called isDupledrome that takes a String and returns a boolean indicating whether the word is a dupledrome.
