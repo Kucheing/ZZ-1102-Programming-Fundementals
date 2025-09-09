@@ -1,5 +1,7 @@
 //example we use x = 7.5 and y = 2.0
+
 public class explanationsOfFormula {
+
     public static void main(String[] args) {
         // Step 1: Initialise variables
         double x = 7.5;
@@ -18,3 +20,8 @@ public class explanationsOfFormula {
         System.out.println("Math.abs -> Returns the absolute value (positive) of a number."); // where here the answer will be math.abs(5.5) meaning the positive value is 5.5)
     }
 }
+
+//Just basic calculations of Pi while using max and absolute for math functions
+// Math.Pi here just returns the mathematical constant value of Pi (approximately 3.14159).
+// Math.max here compares two value and returns the larger value
+// Math.abs here returns the absolute positive value of a number
