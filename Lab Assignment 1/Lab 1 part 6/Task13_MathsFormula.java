@@ -1,6 +1,6 @@
 //example we use x = 7.5 and y = 2.0
 
-public class explanationsOfFormula {
+public class Task13_MathsFormula {
 
     public static void main(String[] args) {
         // Step 1: Initialise variables

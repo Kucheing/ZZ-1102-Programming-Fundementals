@@ -45,4 +45,4 @@ KEY METHODS:
 - word.length(): Returns the number of characters in the word.
 - word.charAt(i): Returns the character at position i in the word.
 - input.nextLine(): Reads a full line of user input.
-*/
+ */

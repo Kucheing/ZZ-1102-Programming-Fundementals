@@ -7,7 +7,7 @@
 //   DISPLAY "Surface Area = " surfaceArea " Square cm"
 // END
 
-public class Sphere {
+public class Task1_Sphere {
 
     public static void main(String[] args) {
         // Step 1: Define radius in cm

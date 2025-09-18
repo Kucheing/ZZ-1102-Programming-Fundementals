@@ -1,5 +1,5 @@
 
-public class balanceOfAccount {
+public class Task15_balanceOfAccount {
 
     public static void main(String[] args) {
         double initialBalance = 1000.00; // Initial account balance
@@ -9,17 +9,17 @@ public class balanceOfAccount {
         double Interest = initialBalance * InterestRate; // Interest earned in the first year
         double FirstYear = initialBalance + Interest; // Total balance after the first year
 
-        System.out.println("The balance after the first year is: " + FirstYear);
+        System.out.println("The balance after the first year is: $" + FirstYear);
 
         // Second Year Calculation
         double SecYearInterest = FirstYear * InterestRate; // Interest earned in the second year
         double SecondYear = FirstYear + SecYearInterest; // Total balance after the second year
-        System.out.println("The balance after the second year is: " + SecondYear);
+        System.out.println("The balance after the second year is: $" + SecondYear);
 
         // Third Year Calculation
         double ThirdYearInterest = SecondYear * InterestRate; // Interest earned in the third year
         double ThirdYear = SecondYear + ThirdYearInterest; // Total balance after the third year
-        System.out.println("The balance after the third year is: " + ThirdYear);
+        System.out.println("The balance after the third year is: $" + ThirdYear);
     }
 }
 // base on understanding, above if an approach at first look, but there is definitely a better way to do this since it seems repetitive.

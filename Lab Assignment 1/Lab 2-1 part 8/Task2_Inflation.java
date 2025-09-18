@@ -14,7 +14,7 @@
 //   DISPLAY amountFuture1
 //   DISPLAY amountFuture2
 // END
-public class Inflation {
+public class Task2_Inflation {
 
     public static void main(String[] args) {
 
@@ -42,6 +42,7 @@ public class Inflation {
 /*declare the variables first as per given examples,
 then calculate the amounts for the years required using the formula given
 and finaly display the results*/
+//----------------------------------
 // two different variables entered according to example given in the lab2-1 task2
 // public class Inflation{
 // public static void main(String[] args) {

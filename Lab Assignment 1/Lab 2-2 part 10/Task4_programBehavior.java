@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class programBehavior {
+public class Task4_programBehavior {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
@@ -41,9 +41,9 @@ public class programBehavior {
     }
 }
 // Here we will be using user input for the variables length, width and radius and choosing of number from the menu
-// We will be using if-else if-else selection statements to determine which block of code
+// We will be using if-elseif-else selection statements to determine which block of code
 // First, asking the number for the menu choice
-// if using inputs number other than 1 or 2, it will print an error message
-// If the user inputs 1, we will be calculating the area and perimeter of a rectangle
-// If the user inputs 2, we will be calculating the area and circumference of a circle
+// if using input number other than 1 or 2, it will print an error message which can be seen at the end of the code
+// If the user inputs 1, Then we will be calculating the area and perimeter of a rectangle, But we will need the user input of length and width to be able to calculate the Area and Perimeter
+// If the user inputs 2, we will be calculating the area and circumference of a circle, Here we will need the user input of radius to be able to calculate the Area and Circumference
 // We will be using Math.PI for the value of pi

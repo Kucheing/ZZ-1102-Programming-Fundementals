@@ -14,13 +14,16 @@ public class seasonMonth {
 
         String season = "";
 
-        if (month == 1 || month == 2 || month == 3) {
+        if (month <= 0) {
+            System.out.println("Invalid month");
+            return;
+        } else if (month <= 3) {
             season = "Winter";
-        } else if (month == 4 || month == 5 || month == 6) {
+        } else if (month > 3 && month <= 6) {
             season = "Spring";
-        } else if (month == 7 || month == 8 || month == 9) {
+        } else if (month > 6 && month <= 9) {
             season = "Summer";
-        } else if (month == 10 || month == 11 || month == 12) {
+        } else if (month > 9 && month <= 12) {
             season = "Fall";
         }
 

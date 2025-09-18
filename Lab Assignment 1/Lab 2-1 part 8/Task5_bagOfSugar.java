@@ -1,4 +1,6 @@
-public class bagOfSugar {
+
+public class Task5_bagOfSugar {
+
     public static void main(String[] args) {
         int noofBags = 32;
         int weightperBag = 5;
@@ -16,3 +18,7 @@ public class bagOfSugar {
         System.out.println("Total price (with tax): $" + totalPricewithTax);
     }
 }
+// First as usual, we need to declare the variables, according to the example given in the lab task
+// then we calculate the total price without tax and with tax using the formulas given in the lab task
+// finally we display the results as per the format given in the lab task
+//----------------------------------
