@@ -72,3 +72,14 @@ public class TowerGame {
 
     }
 }
+
+// EXPLANATION:
+// 1. firstly we welcome the players and explain the rules of the game.
+// 2. We then ask for the names of both players.
+// 3. By using scanner we take input from the users which is used for the name and inputs as well
+// 4. After deciding the names of the players. Player 1 starts the game by pressing enter to draw two random numbers between 1 and 6.
+// 5. we then check if the sum of the two numbers is even or odd. If it's even, the player moves up one level; if it's odd, they move down one level.
+// 6. We ensure that the player's level does not go below 0.
+// 7. The game continues with Player 2 taking their turn in the same way. if the sum of the two numbers is even, they move up one level; if it is odd, the player moves down one level.
+// 8. The game continues until one of the players reaches the top level of 10.
+// 9. Finally, we announce the winner and congratulate them.
